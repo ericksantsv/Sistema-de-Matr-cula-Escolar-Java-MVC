@@ -93,7 +93,7 @@ CREATE TABLE alunos (
 URL:
 
 ```text
-http://localhost:8080/SistemaMatricula
+http://localhost:8080/SistemaMatricula_war_exploded/
 ```
 
 ---
